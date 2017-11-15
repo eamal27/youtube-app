@@ -3,4 +3,4 @@
 * uses Youtube's API
 
 ## Live Demo
-[Youtube React App Live Link](http://www.eliasamal.ca:90 "Youtube React App")
+[Youtube React App Live Link](http://eliasamal.ca:90 "Youtube React App")
