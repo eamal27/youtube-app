@@ -1,2 +1,6 @@
-# youtube-app
-Video player built in React (uses Youtube's API)
+# Youtube video player app
+* built with React
+* uses Youtube's API
+
+## Live Demo
+[Youtube React App Live Link](http://www.eliasamal.ca:90 "Youtube React App")
